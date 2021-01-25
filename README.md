@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Tokisaki-Galaxy's github stats](https://github-readme-stats.vercel.app/api?username=tokisaki-galaxy&show_icons=true&theme=buefy&count_private=true)  
-
+![Tokisaki-Galaxy's github stats](https://github-readme-stats.vercel.app/api?username=tokisaki-galaxy&show_icons=true&theme=radical&count_private=true)  
+![Tokisaki-Galaxy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisaki-galaxy&layout=compact&theme=radical)
 <!--
 **Tokisaki-Galaxy/Tokisaki-Galaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
