@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Tokisaki-Galaxy's github stats](https://github-readme-stats.vercel.app/api?username=tokisaki-galaxy&show_icons=true&theme=radical&count_private=true)
+You could donate at
+ - 'XMR' = '8321oKyWnqWie7DbV7rEFq6VjstwSPaC2gzuQemJTUVgYaH3qDEiCykYXek7favekpJDLAjpc9jm19GrEekQoFujUSvv16V'
 - 🌱 I’m currently learning ...
 <!--![Tokisaki-Galaxy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisaki-galaxy&layout=compact&theme=radical)-->
 <!--
