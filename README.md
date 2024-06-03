@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Tokisaki-Galaxy's github stats](https://github-readme-stats.vercel.app/api?username=tokisaki-galaxy&show_icons=true&theme=radical&count_private=true)
+![Tokisaki-Galaxy's github stats](https://github-readme-stats.vercel.app/api?username=tokisaki-galaxy&bg_color=30,e96443,904e95&title_color=fff&show_icons=true&theme=radical&count_private=true)
 
 - 🌱 I’m currently learning ...
 
