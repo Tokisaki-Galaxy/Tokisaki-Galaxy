@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Tokisaki-Galaxy's github stats](https://github-readme-stats.vercel.app/api?username=tokisaki-galaxy&bg_color=30,e96443,904e95&title_color=fff&show_icons=true&theme=radical&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisaki-galaxy&layout=compact&hide=html,javascript,CSS,VBScript)
+
 - 🌱 I’m currently learning ...
 
 You could donate at
