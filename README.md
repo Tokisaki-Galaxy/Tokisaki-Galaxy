@@ -1,12 +1,10 @@
 ### Hi there 👋
 ![Tokisaki-Galaxy's github stats](https://github-readme-stats.tokisaki.top/api?username=tokisaki-galaxy&bg_color=30,e96443,904e95&title_color=fff&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.tokisaki.top/api/top-langs/?username=tokisaki-galaxy&layout=compact&hide=html,javascript,CSS,VBScript)
+![Top Langs](https://github-readme-stats.tokisaki.top/api/top-langs/?username=tokisaki-galaxy&layout=compact&hide=html,javascript,CSS,VBScript,jupyter%20notebook)
 
 - 🌱 I’m currently learning ...
 
-You could donate at
- - 'XMR' = '8321oKyWnqWie7DbV7rEFq6VjstwSPaC2gzuQemJTUVgYaH3qDEiCykYXek7favekpJDLAjpc9jm19GrEekQoFujUSvv16V'
 <!--![Tokisaki-Galaxy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisaki-galaxy&layout=compact&theme=radical)-->
 <!--
 **Tokisaki-Galaxy/Tokisaki-Galaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
